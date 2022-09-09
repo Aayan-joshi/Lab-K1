@@ -5,7 +5,7 @@ Lab assignments for C programming for grade 11 section K1 of fiscal year 2022-23
 Activities:
 Lab assignment 1 [Use of I/O function and conditional statement]
 
-1. WAP ato calculate volume of sphere
+1. WAP to calculate volume of sphere
 2. WAP to display average of any three numbers
 3. WAP to display the smallest number among ant three numbers given by the user
 4. WAP to dusplay whether the given number is even or odd by using switch case statemant
